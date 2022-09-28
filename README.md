@@ -1,4 +1,4 @@
-# Capstone API
+# Bike-Sharing API
 
 
 In most cases when we are running a business, there are a lot of data stakeholder outside our company. The problem is that we need to provide the access in a way that they will not break our security rules or concerns. One way to solve that is by creating an API for the database. In this project, we will introduce you on how python is used for data transaction management using Flask API. 
